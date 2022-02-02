@@ -21,8 +21,8 @@
 #include "bleScan.h"
 #include "blePacket.h"
 
-#define DEBUGLEVEL 1
-#define SHOWALL		 0
+#define DEBUGLEVEL 2
+#define SHOWALL		 1
 
 //! Scanning flag
 volatile bool isScanning = true;
